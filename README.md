@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
